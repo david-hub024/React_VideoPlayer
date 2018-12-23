@@ -1,5 +1,5 @@
 ### VIDEO
-[react_player.zip](https://github.com/seniorapple/React_VideoPlayer/files/2705745/react_player.zip)
+[react_player.zip]![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/39874090/50381730-34cdf880-0643-11e9-8499-81ad744458bd.gif)
 
 link : https://drive.google.com/file/d/13rigzP-NxlWYoNnjnE0ibiOGJI65SFxI/view
 
