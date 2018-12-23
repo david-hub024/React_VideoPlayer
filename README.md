@@ -1,3 +1,8 @@
+### VIDEO
+[react_player.zip](https://github.com/seniorapple/React_VideoPlayer/files/2705745/react_player.zip)
+
+link : https://drive.google.com/file/d/13rigzP-NxlWYoNnjnE0ibiOGJI65SFxI/view
+
 <h1 align='center'>
   ReactPlayer
 </h1>
